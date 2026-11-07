@@ -3,7 +3,7 @@
 # 🦊 ARDOR GAMING Edge Wireless — Audio Studio 
 
 ![Platform](https://img.shields.io/badge/Platform-Windows%2010%20%7C%2011%20(x64)-0078D6?style=for-the-badge&logo=windows)
-![Version](https://img.shields.io/badge/Release-v1.1-E50914?style=for-the-badge)
+![Version](https://img.shields.io/badge/Release-v1.2-E50914?style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?style=for-the-badge&logo=python)
 ![Audio Engine](https://img.shields.io/badge/Engine-Equalizer%20APO-FF9800?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-MIT-4CAF50?style=for-the-badge)
