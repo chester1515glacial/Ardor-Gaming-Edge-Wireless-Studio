@@ -1,6 +1,6 @@
 # Ardor-Gaming-Edge-Wireless-Studio
 Панель управления звуком, 10-полосный эквалайзер и студийный микрофон (шумодав + радио-бас) для беспроводных наушников ARDOR GAMING Edge Wireless (Edge Wireless Black).
-# 🦊 ARDOR GAMING Edge Wireless — Audio Studio (v1.1)
+# 🦊 ARDOR GAMING Edge Wireless — Audio Studio 
 
 ![Platform](https://img.shields.io/badge/Platform-Windows%2010%20%7C%2011%20(x64)-0078D6?style=for-the-badge&logo=windows)
 ![Version](https://img.shields.io/badge/Release-v1.1-E50914?style=for-the-badge)
@@ -14,7 +14,7 @@
 
 ---
 
-## 🔥 Ключевые возможности (v1.1)
+## 🔥 Ключевые возможности 
 
 Программа работает как графический центр управления реального времени над системным драйвером **Equalizer APO**, обеспечивая **нулевую задержку звука (0 мс)** и полное разделение потоков динамиков и микрофона:
 
